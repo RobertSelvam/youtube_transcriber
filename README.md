@@ -1,6 +1,3 @@
-![python](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)
-
-![gradio](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSChAn_Z8CYhCXq4Pr0raY6G5H1S13im0UB7W1vkn7bNj--AHLuq7Cq6xfIMLW8gta1og&usqp=CAU)
 # YouTube Video Transcriber
 
 ## Overview
