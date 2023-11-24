@@ -17,10 +17,10 @@ The YouTube Video Transcriber is a Python application that transcribes the audio
 
 ## Usage
 
-1. Run the application by executing the `main.py` file:
+1. Run the application by executing the `youtube_video_transcriber.py` file:
 
    ```bash
-   !python youtube_video_transcriber
+   !python youtube_video_transcriber.py
 
 2. Access the Gradio interface in your web browser by navigating to the provided URL.
 
